@@ -7,4 +7,4 @@ This little project contains a couple of topics I want to get more familiar with
 * es6
 * babel
 
-In order to go back to the code and also to learn better to handle remote git-repositories I thought it makes sense to put it here.
+In order to be able to go back to the code and also to learn better to handle remote git-repositories I thought it makes sense to put it here.

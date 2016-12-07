@@ -1,7 +1,7 @@
 
 This repository contains a small react-application I created while following a nice Youtube-Tutorial/-Playlist, which is this one: https://www.youtube.com/playlist?list=PLMve8qV_h5E8YuaoKG34145IuLRatslPU
 
-This little project contains a couple of topics I want to get more familiar with:
+There are a couple of topics here I want to get more familiar with:
 * webpack
 * react
 * es6

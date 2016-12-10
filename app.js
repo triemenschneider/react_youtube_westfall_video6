@@ -1,6 +1,6 @@
-// libs																	// aternative syntax
-import React from 'react';							// var React = require('react');
-import ReactDOM from 'react-dom';				// var ReactDOM = require('react-dom');
+// libs
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 // scss
 import './scss/style.scss';
